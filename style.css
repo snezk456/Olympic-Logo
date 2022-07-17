@@ -1,0 +1,17 @@
+h1
+{
+	color:blue; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("Screenshot\ \(436\).png");
+	background-position: center;
+	background-size: cover;
+	text-align: center;
+}
+
+#myCanvas{
+border-width: 10px;
+background-color: white;
+border-style: ridge;
+}
